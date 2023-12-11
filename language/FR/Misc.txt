@@ -1,0 +1,13 @@
+{
+	"strings":
+	{
+	"FATACRID_BODY_NAME" : "Grand Chien",
+	"FATACRID_BODY_SUBTITLE" : "(Forme Gigantesque)",
+	
+	"DIGGERPLUGIN_DIRESEEKER_BODY_NAME" : "Chercheur Sinistre",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_SUBTITLE" : "Pister et Tuer",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_LORE" : "Les légendes racontent l'histoire d'une bête monstrueuse qui errait autrefois dans les casernes souterraines de Petrichor V.\n\nRedoutée par les survivants les plus courageux et les monstres les plus redoutables, la bête massive était inégalée. Elle portait des écailles rouge sang, trempées dans le feu de l'enfer. Ses yeux jaunes brûlants avaient un regard si intense qu'il faisait stopper net les plus grandes créatures. Elle avait un souffle brûlant, assez chaud pour faire fondre le métal en un instant.\n\nSeule une fois arrêtée par un survivant assez fort pour tuer Providence lui-même, on pensait que la bête avait enfin trouvé son adversaire à sa mesure.\n\n<style=cIsHealth>Jusqu'à ce qu'elle montre à nouveau son visage terrifiant.</style>",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR" : "...et ainsi, il partit, à la recherche de nouvelles proies.",
+	"DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME" : "Par défaut"
+	}
+}
