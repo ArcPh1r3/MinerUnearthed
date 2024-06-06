@@ -1,0 +1,56 @@
+{
+	"strings":
+	{
+	"MINERBODY_DEFAULT_SKIN_NAME" : "Par défaut",
+	"MINERBODY_MOLTEN_SKIN_NAME" : "Fondu",
+	"MINERBODY_TYPHOON_SKIN_NAME" : "Conquérant",
+	"MINERBODY_PUPLE_SKIN_NAME" : "Puple",
+	"MINERBODY_TUNDRA_SKIN_NAME" : "Toundra",
+	"MINERBODY_BLACKSMITH_SKIN_NAME" : "Forgeron",
+	"MINERBODY_IRON_SKIN_NAME" : "Fer",
+	"MINERBODY_GOLD_SKIN_NAME" : "Or",
+	"MINERBODY_DIAMOND_SKIN_NAME" : "Diamant",
+	"MINERBODY_STEVE_SKIN_NAME" : "Minecraft",
+	"MINERBODY_DRIP_SKIN_NAME" : "Goutte",
+	
+	"MINER_UNLOCKABLE_ACHIEVEMENT_NAME" : "Poussée d'Adrénaline",
+	"MINER_UNLOCKABLE_UNLOCKABLE_NAME" : "Poussée d'Adrénaline",
+	"MINER_UNLOCKABLE_ACHIEVEMENT_DESC" : "Ouvrir un Coffre Légendaire.",
+	
+	"MINER_ALTUNLOCKABLE_ACHIEVEMENT_NAME" : "Forge dans les Flammes",
+	"MINER_ALTUNLOCKABLE_UNLOCKABLE_NAME" : "Forge dans les Flammes",
+	"MINER_ALTUNLOCKABLE_ACHIEVEMENT_DESC" : "Vaincre le gardien unique des Profondeurs Abyssales.",
+	
+	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Grande Maîtrise",
+	"MINER_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Grande Maîtrise",
+	"MINER_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, terminez le jeu ou anéantissez-le en mode Typhon ou Eclipse.\n<color=#8888>(La difficulté Typhon nécessite Starstorm 2)</color>",
+	
+	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Maîtrise",
+	"MINER_MONSOONUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Maîtrise",
+	"MINER_MONSOONUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, terminez le jeu ou anéantissez-le en mode Mousson.",
+	
+	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Or Pillé",
+	"MINER_CRUSHUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Or Pillé",
+	"MINER_CRUSHUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, appliquez 12 empilements de balayage au gardien unique de la Côte Dorée.",
+	
+	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Accro",
+	"MINER_CRACKUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Accro",
+	"MINER_CRACKUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, obtenez 50 empilements d'Adrénaline.",
+	
+	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Compacté",
+	"MINER_CAVEINUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Compacté",
+	"MINER_CAVEINUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, touchez 20 ennemis avec un seul Contrecoup.",
+	
+	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Les Cinq Clés",
+	"MINER_PUPLEUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Les Cinq Clés",
+	"MINER_PUPLEUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, découvrez le secret de débogage de G-N-O-M-E.",
+	
+	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Gelé",
+	"MINER_TUNDRAUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Gelé",
+	"MINER_TUNDRAUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, atteignez le Point de Rassemblement Delta en moins de 8 minutes.",
+	
+	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_NAME" : "Mineur : Trempé",
+	"MINER_BLACKSMITHUNLOCKABLE_UNLOCKABLE_NAME" : "Mineur : Trempé",
+	"MINER_BLACKSMITHUNLOCKABLE_ACHIEVEMENT_DESC" : "En tant que Mineur, trouvez un outil de forge sur la planète."
+	}
+}
